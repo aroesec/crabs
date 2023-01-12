@@ -1,2 +1,2 @@
 # crabs
-A webserver built in Rust.
+A webserver built in Rust for educational purposes.
